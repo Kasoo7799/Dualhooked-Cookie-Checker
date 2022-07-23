@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 
-token = "YOURTOKEN"
+token = "token here"
 yourprefix = "!" ## enter the prefix of your choice by replacing the ! 
 dualhookchannelid = channelid 
 
